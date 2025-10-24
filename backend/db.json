@@ -1,0 +1,67 @@
+{
+  "teachers": [
+    {
+      "id": "662a",
+      "teachername": "Amrita",
+      "email": "suitsangitashoo76@gmail.com",
+      "password": "134",
+      "age": "22",
+      "phone": "7681027767",
+      "Skill": [
+        "Java,React"
+      ],
+      "qualification": [
+        {
+          "degree": "Bsc Itm",
+          "description": ""
+        }
+      ],
+      "project": [
+        {
+          "title": "GroCery Shopping cart",
+          "description": "Multiple Grocery can shop"
+        }
+      ]
+    },
+    {
+      "teachername": "Sangita",
+      "email": "suitsangitashoo76@gmail.com",
+      "password": "12",
+      "age": "27",
+      "phone": "+917681027767",
+      "Skill": [
+        "Java,Phython,React",
+        "WebTech"
+      ],
+      "qualification": [
+        {
+          "degree": "Bsc",
+          "description": "ITM"
+        }
+      ],
+      "project": [
+        {
+          "title": "Grocery Shopping Cart",
+          "description": "The Grocery Shopping Cart Project is a web-based application that allows users to browse, select, and purchase grocery items online. It provides features like adding items to a cart, updating quantities, calculating the total price, and managing orders for a seamless shopping experience."
+        },
+        {
+          "title": "Pharmacy Databese Management",
+          "description": "The Pharmacy Database Management System is a web-based application designed to manage medicine records, suppliers, and customer transactions efficiently. It enables adding, updating, searching, and deleting medicine data while ensuring accurate inventory tracking and smooth pharmacy operations."
+        },
+        {
+          "title": "Swiggy Clone",
+          "description": "The Swiggy Clone is an online food ordering web application that replicates Swiggy’s core features, allowing users to browse restaurants, view menus, add items to the cart, and place orders seamlessly. It provides an interactive user interface and backend integration for managing users, restaurants, and orders efficiently."
+        },
+        {
+          "title": "Portfolio",
+          "description": "Give all information about me as like Resume"
+        },
+        {
+          "title": "Employee Management",
+          "description": "The Employee Management System is a web-based application designed to manage employee information efficiently. It allows administrators to add, update, view, and delete employee records, track performance, and organize departments, ensuring smooth HR operations and centralized data management."
+        }
+      ],
+      "id": "f142"
+    }
+  ]
+}
