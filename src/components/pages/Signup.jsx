@@ -114,7 +114,7 @@ const Signup = () => {
         </label>
         <label>
           Phone
-          <input type="text" name="phone" value={formData.phone} onChange={handleChange} className="w-full rounded p-1" />
+          <input type="number" name="phone" value={formData.phone} onChange={handleChange} className="w-full rounded p-1" />
         </label>
 
       
