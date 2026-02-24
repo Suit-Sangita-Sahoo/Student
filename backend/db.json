@@ -109,6 +109,29 @@
           "description": "abc"
         }
       ]
+    },
+    {
+      "id": "2708",
+      "teachername": "Sangita",
+      "email": "suitsangitasahoo@gmail.com",
+      "password": "123",
+      "age": "21",
+      "phone": "7681027767",
+      "Skill": [
+        "Java"
+      ],
+      "qualification": [
+        {
+          "degree": "BSC",
+          "description": "ITM"
+        }
+      ],
+      "project": [
+        {
+          "title": "PortFolio Management",
+          "description": "Manage Your PortFolio"
+        }
+      ]
     }
   ]
 }
